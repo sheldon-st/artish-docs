@@ -1,0 +1,715 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "developer": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/developer",
+          "tagsPath": "/developer/tags",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/stephensheldon/Documents/Code/artish/packages/vanilla/sidebars.ts",
+          "contentPath": "/Users/stephensheldon/Documents/Code/artish/packages/vanilla/developer",
+          "contentPathLocalized": "/Users/stephensheldon/Documents/Code/artish/packages/vanilla/i18n/en/docusaurus-plugin-content-docs-developer/current",
+          "docs": [
+            {
+              "id": "@artish-ui/concepts/tokens",
+              "title": "tokens",
+              "description": "",
+              "source": "@site/developer/@artish-ui/concepts/tokens.md",
+              "sourceDirName": "@artish-ui/concepts",
+              "slug": "/@artish-ui/concepts/tokens",
+              "permalink": "/developer/@artish-ui/concepts/tokens",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "@artish/ui",
+              "previous": {
+                "title": "Concepts",
+                "permalink": "/developer/category/concepts-1"
+              },
+              "next": {
+                "title": "UiProps",
+                "permalink": "/developer/@artish-ui/interfaces/UiProps"
+              }
+            },
+            {
+              "id": "@artish-ui/index",
+              "title": "@artish/ui",
+              "description": "This library was generated with Nx.",
+              "source": "@site/developer/@artish-ui/index.md",
+              "sourceDirName": "@artish-ui",
+              "slug": "/@artish-ui/",
+              "permalink": "/developer/@artish-ui/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": null,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 0,
+              "frontMatter": {
+                "id": "index",
+                "title": "@artish/ui",
+                "sidebar_label": "Readme",
+                "sidebar_position": 0,
+                "custom_edit_url": null
+              },
+              "sidebar": "@artish/ui",
+              "next": {
+                "title": "Exports",
+                "permalink": "/developer/@artish-ui/modules"
+              }
+            },
+            {
+              "id": "@artish-ui/interfaces/UiProps",
+              "title": "Interface: UiProps",
+              "description": "",
+              "source": "@site/developer/@artish-ui/interfaces/UiProps.md",
+              "sourceDirName": "@artish-ui/interfaces",
+              "slug": "/@artish-ui/interfaces/UiProps",
+              "permalink": "/developer/@artish-ui/interfaces/UiProps",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": null,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 0,
+              "frontMatter": {
+                "id": "UiProps",
+                "title": "Interface: UiProps",
+                "sidebar_label": "UiProps",
+                "sidebar_position": 0,
+                "custom_edit_url": null
+              },
+              "sidebar": "@artish/ui",
+              "previous": {
+                "title": "tokens",
+                "permalink": "/developer/@artish-ui/concepts/tokens"
+              }
+            },
+            {
+              "id": "@artish-ui/modules",
+              "title": "@artish/ui",
+              "description": "Interfaces",
+              "source": "@site/developer/@artish-ui/modules.md",
+              "sourceDirName": "@artish-ui",
+              "slug": "/@artish-ui/modules",
+              "permalink": "/developer/@artish-ui/modules",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": null,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 0.5,
+              "frontMatter": {
+                "id": "modules",
+                "title": "@artish/ui",
+                "sidebar_label": "Exports",
+                "sidebar_position": 0.5,
+                "custom_edit_url": null
+              },
+              "sidebar": "@artish/ui",
+              "previous": {
+                "title": "Readme",
+                "permalink": "/developer/@artish-ui/"
+              },
+              "next": {
+                "title": "Concepts",
+                "permalink": "/developer/category/concepts-1"
+              }
+            },
+            {
+              "id": "guides/concepts/plugins",
+              "title": "Plugins",
+              "description": "",
+              "source": "@site/developer/guides/concepts/plugins.md",
+              "sourceDirName": "guides/concepts",
+              "slug": "/guides/concepts/plugins",
+              "permalink": "/developer/guides/concepts/plugins",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "title": "Plugins",
+                "id": "plugins",
+                "sidebar_position": 1
+              },
+              "sidebar": "guidesSidebar",
+              "previous": {
+                "title": "Concepts",
+                "permalink": "/developer/category/concepts"
+              },
+              "next": {
+                "title": "Services",
+                "permalink": "/developer/guides/concepts/services"
+              }
+            },
+            {
+              "id": "guides/concepts/services",
+              "title": "Services",
+              "description": "",
+              "source": "@site/developer/guides/concepts/services.md",
+              "sourceDirName": "guides/concepts",
+              "slug": "/guides/concepts/services",
+              "permalink": "/developer/guides/concepts/services",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "title": "Services",
+                "id": "services",
+                "sidebar_position": 2
+              },
+              "sidebar": "guidesSidebar",
+              "previous": {
+                "title": "Plugins",
+                "permalink": "/developer/guides/concepts/plugins"
+              },
+              "next": {
+                "title": "Tutorials",
+                "permalink": "/developer/category/tutorials"
+              }
+            },
+            {
+              "id": "guides/index",
+              "title": "Welcome",
+              "description": "This documentation is for core and plugin developers.",
+              "source": "@site/developer/guides/guides.md",
+              "sourceDirName": "guides",
+              "slug": "/guides",
+              "permalink": "/developer/guides",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "title": "Welcome",
+                "id": "index",
+                "slug": "/guides",
+                "sidebar_position": 1
+              },
+              "sidebar": "guidesSidebar",
+              "next": {
+                "title": "Getting Started",
+                "permalink": "/developer/category/getting-started"
+              }
+            },
+            {
+              "id": "guides/intro/basics",
+              "title": "Geting Start md",
+              "description": "",
+              "source": "@site/developer/guides/intro/basics.md",
+              "sourceDirName": "guides/intro",
+              "slug": "/guides/intro/basics",
+              "permalink": "/developer/guides/intro/basics",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "guidesSidebar",
+              "previous": {
+                "title": "Setting up your development environment",
+                "permalink": "/developer/guides/intro/dev-env"
+              },
+              "next": {
+                "title": "Concepts",
+                "permalink": "/developer/category/concepts"
+              }
+            },
+            {
+              "id": "guides/intro/dev-env",
+              "title": "Setting up your development environment",
+              "description": "",
+              "source": "@site/developer/guides/intro/dev-env.md",
+              "sourceDirName": "guides/intro",
+              "slug": "/guides/intro/dev-env",
+              "permalink": "/developer/guides/intro/dev-env",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "title": "Setting up your development environment",
+                "id": "dev-env",
+                "sidebar_position": 1
+              },
+              "sidebar": "guidesSidebar",
+              "previous": {
+                "title": "Getting Started",
+                "permalink": "/developer/category/getting-started"
+              },
+              "next": {
+                "title": "Geting Start md",
+                "permalink": "/developer/guides/intro/basics"
+              }
+            },
+            {
+              "id": "guides/tutorials/docs/docs",
+              "title": "Plugin Documentation",
+              "description": "We seperate all documentation into two main categories: developer and user. The developer docs are comprised of guides and references for developers who are contributing to the core or developing plugins. The user documentation is reference material to help end users understand how to use the features we are building.",
+              "source": "@site/developer/guides/tutorials/docs/index.md",
+              "sourceDirName": "guides/tutorials/docs",
+              "slug": "/guides/tutorials/docs/",
+              "permalink": "/developer/guides/tutorials/docs/",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "title": "Plugin Documentation",
+                "id": "docs",
+                "sidebar_position": 2
+              },
+              "sidebar": "guidesSidebar",
+              "previous": {
+                "title": "Generating a plugin",
+                "permalink": "/developer/guides/tutorials/plugin/generating"
+              }
+            },
+            {
+              "id": "guides/tutorials/plugin/generating",
+              "title": "Generating a plugin",
+              "description": "",
+              "source": "@site/developer/guides/tutorials/plugin/generating.md",
+              "sourceDirName": "guides/tutorials/plugin",
+              "slug": "/guides/tutorials/plugin/generating",
+              "permalink": "/developer/guides/tutorials/plugin/generating",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "title": "Generating a plugin",
+                "id": "generating",
+                "sidebar_position": 1
+              },
+              "sidebar": "guidesSidebar",
+              "previous": {
+                "title": "Creating a plugin",
+                "permalink": "/developer/category/creating-a-plugin"
+              },
+              "next": {
+                "title": "Plugin Documentation",
+                "permalink": "/developer/guides/tutorials/docs/"
+              }
+            },
+            {
+              "id": "plugins/@uibyme-map/guide/index",
+              "title": "Getting Started",
+              "description": "",
+              "source": "@site/developer/plugins/@uibyme-map/guide/index.md",
+              "sourceDirName": "plugins/@uibyme-map/guide",
+              "slug": "/plugins/@uibyme-map/guide/",
+              "permalink": "/developer/plugins/@uibyme-map/guide/",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "pluginsSidebar",
+              "previous": {
+                "title": "@uibyme/map",
+                "permalink": "/developer/plugins/@uibyme-map/"
+              },
+              "next": {
+                "title": "Layers guide",
+                "permalink": "/developer/plugins/@uibyme-map/guide/layers"
+              }
+            },
+            {
+              "id": "plugins/@uibyme-map/guide/layers",
+              "title": "Layers guide",
+              "description": "Introduction",
+              "source": "@site/developer/plugins/@uibyme-map/guide/layers.md",
+              "sourceDirName": "plugins/@uibyme-map/guide",
+              "slug": "/plugins/@uibyme-map/guide/layers",
+              "permalink": "/developer/plugins/@uibyme-map/guide/layers",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "pluginsSidebar",
+              "previous": {
+                "title": "Getting Started",
+                "permalink": "/developer/plugins/@uibyme-map/guide/"
+              },
+              "next": {
+                "title": "Markers Guide",
+                "permalink": "/developer/plugins/@uibyme-map/guide/markers"
+              }
+            },
+            {
+              "id": "plugins/@uibyme-map/guide/markers",
+              "title": "Markers Guide",
+              "description": "Markers are used to mark a location on the map. They can be used to show the location of a business, event, or any other location that you want to highlight.",
+              "source": "@site/developer/plugins/@uibyme-map/guide/markers.md",
+              "sourceDirName": "plugins/@uibyme-map/guide",
+              "slug": "/plugins/@uibyme-map/guide/markers",
+              "permalink": "/developer/plugins/@uibyme-map/guide/markers",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "pluginsSidebar",
+              "previous": {
+                "title": "Layers guide",
+                "permalink": "/developer/plugins/@uibyme-map/guide/layers"
+              }
+            },
+            {
+              "id": "plugins/@uibyme-map/index",
+              "title": "@uibyme/map",
+              "description": "This is the map plugin",
+              "source": "@site/developer/plugins/@uibyme-map/index.md",
+              "sourceDirName": "plugins/@uibyme-map",
+              "slug": "/plugins/@uibyme-map/",
+              "permalink": "/developer/plugins/@uibyme-map/",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "pluginsSidebar",
+              "previous": {
+                "title": "Plugins",
+                "permalink": "/developer/plugins"
+              },
+              "next": {
+                "title": "Getting Started",
+                "permalink": "/developer/plugins/@uibyme-map/guide/"
+              }
+            },
+            {
+              "id": "plugins/plugins",
+              "title": "Plugins",
+              "description": "Hello World! This is the plugin docs folder",
+              "source": "@site/developer/plugins/index.md",
+              "sourceDirName": "plugins",
+              "slug": "/plugins",
+              "permalink": "/developer/plugins",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "title": "Plugins",
+                "id": "plugins",
+                "slug": "/plugins",
+                "sidebar_position": 1
+              },
+              "sidebar": "pluginsSidebar",
+              "next": {
+                "title": "@uibyme/map",
+                "permalink": "/developer/plugins/@uibyme-map/"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "pluginsSidebar": [
+              {
+                "type": "doc",
+                "id": "plugins/plugins"
+              },
+              {
+                "type": "category",
+                "label": "@uibyme/map",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "category",
+                    "label": "Getting Started",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "plugins/@uibyme-map/guide/layers"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "plugins/@uibyme-map/guide/markers"
+                      }
+                    ],
+                    "link": {
+                      "type": "doc",
+                      "id": "plugins/@uibyme-map/guide/index"
+                    }
+                  }
+                ],
+                "link": {
+                  "type": "doc",
+                  "id": "plugins/@uibyme-map/index"
+                }
+              }
+            ],
+            "guidesSidebar": [
+              {
+                "type": "doc",
+                "id": "guides/index"
+              },
+              {
+                "type": "category",
+                "label": "Getting Started",
+                "collapsible": true,
+                "collapsed": true,
+                "customProps": {
+                  "description": "This description can be used in the swizzled DocCard"
+                },
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "guides/intro/dev-env"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "guides/intro/basics"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/getting-started",
+                  "permalink": "/developer/category/getting-started"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Concepts",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "guides/concepts/plugins"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "guides/concepts/services"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/concepts",
+                  "permalink": "/developer/category/concepts"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Tutorials",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "category",
+                    "label": "Creating a plugin",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "guides/tutorials/plugin/generating"
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "slug": "/category/creating-a-plugin",
+                      "permalink": "/developer/category/creating-a-plugin"
+                    }
+                  },
+                  {
+                    "type": "doc",
+                    "label": "Plugin Documentation",
+                    "id": "guides/tutorials/docs/docs"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/tutorials",
+                  "permalink": "/developer/category/tutorials"
+                }
+              }
+            ],
+            "@artish/ui": [
+              {
+                "type": "doc",
+                "id": "@artish-ui/index",
+                "label": "Readme"
+              },
+              {
+                "type": "doc",
+                "id": "@artish-ui/modules",
+                "label": "Exports"
+              },
+              {
+                "type": "category",
+                "label": "Concepts",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "@artish-ui/concepts/tokens"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/concepts-1",
+                  "permalink": "/developer/category/concepts-1"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Interfaces",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "@artish-ui/interfaces/UiProps",
+                    "label": "UiProps"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "user": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/user",
+          "tagsPath": "/user/tags",
+          "isLast": true,
+          "routePriority": -1,
+          "contentPath": "/Users/stephensheldon/Documents/Code/artish/packages/vanilla/user",
+          "contentPathLocalized": "/Users/stephensheldon/Documents/Code/artish/packages/vanilla/i18n/en/docusaurus-plugin-content-docs-user/current",
+          "docs": [
+            {
+              "id": "basics/basics",
+              "title": "basics",
+              "description": "",
+              "source": "@site/user/basics/basics.md",
+              "sourceDirName": "basics",
+              "slug": "/basics/",
+              "permalink": "/user/basics/",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "Basics",
+                "permalink": "/user/category/basics"
+              },
+              "next": {
+                "title": "Guides",
+                "permalink": "/user/"
+              }
+            },
+            {
+              "id": "index",
+              "title": "Guides",
+              "description": "",
+              "source": "@site/user/guides.md",
+              "sourceDirName": ".",
+              "slug": "/",
+              "permalink": "/user/",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Guides",
+                "id": "index",
+                "slug": "/"
+              },
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "basics",
+                "permalink": "/user/basics/"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "defaultSidebar": [
+              {
+                "type": "category",
+                "label": "Basics",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "basics/basics"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/basics",
+                  "permalink": "/user/category/basics"
+                }
+              },
+              {
+                "type": "doc",
+                "id": "index"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [],
+      "blogListPaginated": [],
+      "blogTags": {},
+      "blogTagsListPath": "/blog/tags",
+      "blogTagsPaginated": []
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.tsx"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-plugin-typedoc": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

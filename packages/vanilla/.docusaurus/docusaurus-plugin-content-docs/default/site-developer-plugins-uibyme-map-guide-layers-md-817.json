@@ -1,0 +1,24 @@
+{
+  "id": "plugins/@uibyme-map/guide/layers",
+  "title": "Layers guide",
+  "description": "Introduction",
+  "source": "@site/developer/plugins/@uibyme-map/guide/layers.md",
+  "sourceDirName": "plugins/@uibyme-map/guide",
+  "slug": "/plugins/@uibyme-map/guide/layers",
+  "permalink": "/docs/plugins/@uibyme-map/guide/layers",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/developer/plugins/@uibyme-map/guide/layers.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "plugins2Sidebar",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/docs/plugins/@uibyme-map/guide/"
+  },
+  "next": {
+    "title": "Markers Guide",
+    "permalink": "/docs/plugins/@uibyme-map/guide/markers"
+  }
+}

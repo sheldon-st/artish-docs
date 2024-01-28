@@ -1,0 +1,28 @@
+{
+  "id": "guides/tutorials/plugin/generating",
+  "title": "Generating a plugin",
+  "description": "",
+  "source": "@site/developer/guides/tutorials/plugin/generating.md",
+  "sourceDirName": "guides/tutorials/plugin",
+  "slug": "/guides/tutorials/plugin/generating",
+  "permalink": "/developer/guides/tutorials/plugin/generating",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Generating a plugin",
+    "id": "generating",
+    "sidebar_position": 1
+  },
+  "sidebar": "guidesSidebar",
+  "previous": {
+    "title": "Creating a plugin",
+    "permalink": "/developer/category/creating-a-plugin"
+  },
+  "next": {
+    "title": "Plugin Documentation",
+    "permalink": "/developer/guides/tutorials/docs/"
+  }
+}

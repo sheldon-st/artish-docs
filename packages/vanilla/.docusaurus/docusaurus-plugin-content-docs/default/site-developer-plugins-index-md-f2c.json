@@ -1,0 +1,20 @@
+{
+  "id": "plugins/index",
+  "title": "index",
+  "description": "Hello World! This is the plugin docs folder",
+  "source": "@site/developer/plugins/index.md",
+  "sourceDirName": "plugins",
+  "slug": "/plugins/",
+  "permalink": "/docs/plugins/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/developer/plugins/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "plugins2Sidebar",
+  "previous": {
+    "title": "Markers Guide",
+    "permalink": "/docs/plugins/@uibyme-map/guide/markers"
+  }
+}

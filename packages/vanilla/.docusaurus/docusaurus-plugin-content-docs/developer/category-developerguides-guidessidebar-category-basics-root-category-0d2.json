@@ -1,0 +1,15 @@
+{
+  "title": "Basics Root category",
+  "slug": "/category/basics-root-category",
+  "permalink": "/developer/guides/category/basics-root-category",
+  "navigation": {
+    "previous": {
+      "title": "Documenting your code",
+      "permalink": "/developer/guides/guides/tutorials/docs/"
+    },
+    "next": {
+      "title": "basics root home",
+      "permalink": "/developer/guides/guides/basics/"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Concepts",
+  "slug": "/category/concepts-1",
+  "permalink": "/developer/category/concepts-1",
+  "navigation": {
+    "previous": {
+      "title": "Exports",
+      "permalink": "/developer/@artish-ui/modules"
+    },
+    "next": {
+      "title": "tokens",
+      "permalink": "/developer/@artish-ui/concepts/tokens"
+    }
+  }
+}

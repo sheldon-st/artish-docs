@@ -1,0 +1,11 @@
+{
+  "title": "Basics",
+  "slug": "/category/basics",
+  "permalink": "/user/category/basics",
+  "navigation": {
+    "next": {
+      "title": "basics",
+      "permalink": "/user/basics/"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "@artish-ui/interfaces/UiProps",
+  "title": "Interface: UiProps",
+  "description": "",
+  "source": "@site/developer/@artish-ui/interfaces/UiProps.md",
+  "sourceDirName": "@artish-ui/interfaces",
+  "slug": "/@artish-ui/interfaces/UiProps",
+  "permalink": "/developer/@artish-ui/interfaces/UiProps",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "UiProps",
+    "title": "Interface: UiProps",
+    "sidebar_label": "UiProps",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "@artish/ui",
+  "previous": {
+    "title": "tokens",
+    "permalink": "/developer/@artish-ui/concepts/tokens"
+  }
+}

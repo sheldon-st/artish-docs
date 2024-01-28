@@ -1,0 +1,19 @@
+{
+  "id": "@artish-ui/guide/index",
+  "title": "guide index",
+  "description": "",
+  "source": "@site/developer/@artish-ui/guide/index.md",
+  "sourceDirName": "@artish-ui/guide",
+  "slug": "/@artish-ui/guide/",
+  "permalink": "/developer/@artish-ui/guide/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "@artish/ui ?",
+    "permalink": "/developer/@artish-ui/"
+  }
+}

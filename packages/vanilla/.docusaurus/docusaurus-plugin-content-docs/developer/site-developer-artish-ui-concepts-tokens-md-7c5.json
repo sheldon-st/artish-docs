@@ -1,0 +1,23 @@
+{
+  "id": "@artish-ui/concepts/tokens",
+  "title": "tokens",
+  "description": "",
+  "source": "@site/developer/@artish-ui/concepts/tokens.md",
+  "sourceDirName": "@artish-ui/concepts",
+  "slug": "/@artish-ui/concepts/tokens",
+  "permalink": "/developer/@artish-ui/concepts/tokens",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "@artish/ui",
+  "previous": {
+    "title": "Concepts",
+    "permalink": "/developer/category/concepts-1"
+  },
+  "next": {
+    "title": "UiProps",
+    "permalink": "/developer/@artish-ui/interfaces/UiProps"
+  }
+}

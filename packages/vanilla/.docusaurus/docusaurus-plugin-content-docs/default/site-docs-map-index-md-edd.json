@@ -1,0 +1,24 @@
+{
+  "id": "map/index",
+  "title": "This is the map plugin index",
+  "description": "",
+  "source": "@site/docs/map/index.md",
+  "sourceDirName": "map",
+  "slug": "/map/",
+  "permalink": "/docs/map/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/map/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "index",
+    "permalink": "/docs/"
+  },
+  "next": {
+    "title": "This is the map plugin guide index",
+    "permalink": "/docs/map/guide/"
+  }
+}

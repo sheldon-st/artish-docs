@@ -1,0 +1,19 @@
+{
+  "id": "guides/basics/basics",
+  "title": "basics root home",
+  "description": "",
+  "source": "@site/developer/guides/basics/basics.md",
+  "sourceDirName": "guides/basics",
+  "slug": "/guides/basics/",
+  "permalink": "/developer/guides/guides/basics/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "guidesSidebar",
+  "previous": {
+    "title": "Basics Root category",
+    "permalink": "/developer/guides/category/basics-root-category"
+  }
+}

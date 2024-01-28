@@ -1,0 +1,15 @@
+{
+  "title": "Tutorials",
+  "slug": "/category/tutorials",
+  "permalink": "/developer/guides/category/tutorials",
+  "navigation": {
+    "previous": {
+      "title": "Services",
+      "permalink": "/developer/guides/guides/concepts/services"
+    },
+    "next": {
+      "title": "Creating a plugin",
+      "permalink": "/developer/guides/category/creating-a-plugin"
+    }
+  }
+}

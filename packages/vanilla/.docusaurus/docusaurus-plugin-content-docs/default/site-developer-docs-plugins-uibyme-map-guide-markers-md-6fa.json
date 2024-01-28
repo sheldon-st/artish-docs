@@ -1,0 +1,15 @@
+{
+  "id": "docs/plugins/@uibyme-map/guide/markers",
+  "title": "Markers Guide",
+  "description": "Markers are used to mark a location on the map. They can be used to show the location of a business, event, or any other location that you want to highlight.",
+  "source": "@site/developer/docs/plugins/@uibyme-map/guide/markers.md",
+  "sourceDirName": "docs/plugins/@uibyme-map/guide",
+  "slug": "/docs/plugins/@uibyme-map/guide/markers",
+  "permalink": "/docs/docs/plugins/@uibyme-map/guide/markers",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/developer/docs/plugins/@uibyme-map/guide/markers.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

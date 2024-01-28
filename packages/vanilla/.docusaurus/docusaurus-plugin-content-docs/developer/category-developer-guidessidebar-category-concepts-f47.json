@@ -1,0 +1,15 @@
+{
+  "title": "Concepts",
+  "slug": "/category/concepts",
+  "permalink": "/developer/category/concepts",
+  "navigation": {
+    "previous": {
+      "title": "Geting Start md",
+      "permalink": "/developer/guides/intro/basics"
+    },
+    "next": {
+      "title": "Plugins",
+      "permalink": "/developer/guides/concepts/plugins"
+    }
+  }
+}

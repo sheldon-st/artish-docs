@@ -1,0 +1,24 @@
+{
+  "id": "plugins/@uibyme-map/guide/index",
+  "title": "Getting Started",
+  "description": "",
+  "source": "@site/docs/plugins/@uibyme-map/guide/index.md",
+  "sourceDirName": "plugins/@uibyme-map/guide",
+  "slug": "/plugins/@uibyme-map/guide/",
+  "permalink": "/docs/plugins/@uibyme-map/guide/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/plugins/@uibyme-map/guide/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "plugins2Sidebar",
+  "previous": {
+    "title": "@uibyme/map",
+    "permalink": "/docs/plugins/@uibyme-map/"
+  },
+  "next": {
+    "title": "Layers guide",
+    "permalink": "/docs/plugins/@uibyme-map/guide/layers"
+  }
+}

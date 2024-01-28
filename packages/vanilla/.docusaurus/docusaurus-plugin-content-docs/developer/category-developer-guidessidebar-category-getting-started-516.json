@@ -1,0 +1,15 @@
+{
+  "title": "Getting Started",
+  "slug": "/category/getting-started",
+  "permalink": "/developer/category/getting-started",
+  "navigation": {
+    "previous": {
+      "title": "Welcome",
+      "permalink": "/developer/guides"
+    },
+    "next": {
+      "title": "Setting up your development environment",
+      "permalink": "/developer/guides/intro/dev-env"
+    }
+  }
+}

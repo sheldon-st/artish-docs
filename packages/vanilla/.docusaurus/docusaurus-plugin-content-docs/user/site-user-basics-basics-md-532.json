@@ -1,0 +1,23 @@
+{
+  "id": "basics/basics",
+  "title": "basics",
+  "description": "",
+  "source": "@site/user/basics/basics.md",
+  "sourceDirName": "basics",
+  "slug": "/basics/",
+  "permalink": "/user/basics/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Basics",
+    "permalink": "/user/category/basics"
+  },
+  "next": {
+    "title": "Guides",
+    "permalink": "/user/"
+  }
+}

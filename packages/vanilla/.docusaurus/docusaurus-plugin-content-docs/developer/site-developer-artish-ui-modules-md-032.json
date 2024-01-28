@@ -1,0 +1,31 @@
+{
+  "id": "@artish-ui/modules",
+  "title": "@artish/ui",
+  "description": "Interfaces",
+  "source": "@site/developer/@artish-ui/modules.md",
+  "sourceDirName": "@artish-ui",
+  "slug": "/@artish-ui/modules",
+  "permalink": "/developer/@artish-ui/modules",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0.5,
+  "frontMatter": {
+    "id": "modules",
+    "title": "@artish/ui",
+    "sidebar_label": "Exports",
+    "sidebar_position": 0.5,
+    "custom_edit_url": null
+  },
+  "sidebar": "@artish/ui",
+  "previous": {
+    "title": "Readme",
+    "permalink": "/developer/@artish-ui/"
+  },
+  "next": {
+    "title": "Concepts",
+    "permalink": "/developer/category/concepts-1"
+  }
+}

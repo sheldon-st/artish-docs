@@ -1,0 +1,15 @@
+{
+  "title": "Creating aplugin",
+  "slug": "/category/creating-aplugin",
+  "permalink": "/developer/guides/category/creating-aplugin",
+  "navigation": {
+    "previous": {
+      "title": "Tutorials",
+      "permalink": "/developer/guides/category/tutorials"
+    },
+    "next": {
+      "title": "Generating a plugin",
+      "permalink": "/developer/guides/guides/tutorials/plugin/generating"
+    }
+  }
+}

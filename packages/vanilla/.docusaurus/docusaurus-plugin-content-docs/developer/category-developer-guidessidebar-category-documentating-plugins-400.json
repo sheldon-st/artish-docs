@@ -1,0 +1,15 @@
+{
+  "title": "Documentating Plugins",
+  "slug": "/category/documentating-plugins",
+  "permalink": "/developer/category/documentating-plugins",
+  "navigation": {
+    "previous": {
+      "title": "Generating a plugin",
+      "permalink": "/developer/guides/tutorials/plugin/generating"
+    },
+    "next": {
+      "title": "Documenting your code",
+      "permalink": "/developer/guides/tutorials/docs/"
+    }
+  }
+}

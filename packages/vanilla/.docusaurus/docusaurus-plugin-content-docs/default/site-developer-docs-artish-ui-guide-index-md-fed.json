@@ -1,0 +1,15 @@
+{
+  "id": "docs/@artish-ui/guide/index",
+  "title": "guide index",
+  "description": "",
+  "source": "@site/developer/docs/@artish-ui/guide/index.md",
+  "sourceDirName": "docs/@artish-ui/guide",
+  "slug": "/docs/@artish-ui/guide/",
+  "permalink": "/docs/docs/@artish-ui/guide/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/developer/docs/@artish-ui/guide/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

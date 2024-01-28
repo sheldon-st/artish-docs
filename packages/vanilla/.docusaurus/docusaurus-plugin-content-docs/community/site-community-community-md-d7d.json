@@ -1,0 +1,22 @@
+{
+  "id": "community",
+  "title": "Community",
+  "description": "",
+  "source": "@site/community/community.md",
+  "sourceDirName": ".",
+  "slug": "/community",
+  "permalink": "/community/community",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Community",
+    "id": "community"
+  },
+  "sidebar": "defaultSidebar",
+  "next": {
+    "title": "Hello",
+    "permalink": "/community/test/"
+  }
+}

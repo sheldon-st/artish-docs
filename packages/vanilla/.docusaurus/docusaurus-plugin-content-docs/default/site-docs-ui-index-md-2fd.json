@@ -1,0 +1,15 @@
+{
+  "id": "ui/index",
+  "title": "@artish/ui ?",
+  "description": "new line ??",
+  "source": "@site/docs/ui/index.md",
+  "sourceDirName": "ui",
+  "slug": "/ui/",
+  "permalink": "/docs/ui/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ui/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

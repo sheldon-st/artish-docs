@@ -1,0 +1,23 @@
+{
+  "id": "plugins/@uibyme-map/index",
+  "title": "@uibyme/map",
+  "description": "This is the map plugin",
+  "source": "@site/developer/plugins/@uibyme-map/index.md",
+  "sourceDirName": "plugins/@uibyme-map",
+  "slug": "/plugins/@uibyme-map/",
+  "permalink": "/developer/plugins/@uibyme-map/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "pluginsSidebar",
+  "previous": {
+    "title": "Plugins",
+    "permalink": "/developer/plugins"
+  },
+  "next": {
+    "title": "Getting Started",
+    "permalink": "/developer/plugins/@uibyme-map/guide/"
+  }
+}

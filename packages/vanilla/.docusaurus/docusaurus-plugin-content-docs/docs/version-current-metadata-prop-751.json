@@ -1,0 +1,102 @@
+{
+  "pluginId": "docs",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [],
+    "pluginsSidebar": [],
+    "plugins2Sidebar": [
+      {
+        "type": "category",
+        "label": "@uibyme/map",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "category",
+            "label": "Getting Started",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Layers guide",
+                "href": "/docs/plugins/@uibyme-map/guide/layers",
+                "docId": "plugins/@uibyme-map/guide/layers",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Markers Guide",
+                "href": "/docs/plugins/@uibyme-map/guide/markers",
+                "docId": "plugins/@uibyme-map/guide/markers",
+                "unlisted": false
+              }
+            ],
+            "href": "/docs/plugins/@uibyme-map/guide/"
+          }
+        ],
+        "href": "/docs/plugins/@uibyme-map/"
+      },
+      {
+        "type": "link",
+        "label": "index",
+        "href": "/docs/plugins/",
+        "docId": "plugins/index",
+        "unlisted": false
+      }
+    ]
+  },
+  "docs": {
+    "@artish-ui/guide/index": {
+      "id": "@artish-ui/guide/index",
+      "title": "guide index",
+      "description": ""
+    },
+    "@artish-ui/index": {
+      "id": "@artish-ui/index",
+      "title": "@artish/ui ?",
+      "description": "new line ??"
+    },
+    "index": {
+      "id": "index",
+      "title": "index",
+      "description": "Hello World!"
+    },
+    "plugins/@uibyme-map/guide/index": {
+      "id": "plugins/@uibyme-map/guide/index",
+      "title": "Getting Started",
+      "description": "",
+      "sidebar": "plugins2Sidebar"
+    },
+    "plugins/@uibyme-map/guide/layers": {
+      "id": "plugins/@uibyme-map/guide/layers",
+      "title": "Layers guide",
+      "description": "Introduction",
+      "sidebar": "plugins2Sidebar"
+    },
+    "plugins/@uibyme-map/guide/markers": {
+      "id": "plugins/@uibyme-map/guide/markers",
+      "title": "Markers Guide",
+      "description": "Markers are used to mark a location on the map. They can be used to show the location of a business, event, or any other location that you want to highlight.",
+      "sidebar": "plugins2Sidebar"
+    },
+    "plugins/@uibyme-map/index": {
+      "id": "plugins/@uibyme-map/index",
+      "title": "@uibyme/map",
+      "description": "This is the map plugin",
+      "sidebar": "plugins2Sidebar"
+    },
+    "plugins/index": {
+      "id": "plugins/index",
+      "title": "index",
+      "description": "Hello World! This is the plugin docs folder",
+      "sidebar": "plugins2Sidebar"
+    }
+  }
+}

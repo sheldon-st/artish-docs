@@ -1,0 +1,288 @@
+{
+  "pluginId": "developer",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "pluginsSidebar": [
+      {
+        "type": "link",
+        "label": "Plugins",
+        "href": "/developer/plugins",
+        "docId": "plugins/plugins",
+        "unlisted": false
+      },
+      {
+        "type": "category",
+        "label": "@uibyme/map",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "category",
+            "label": "Getting Started",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Layers guide",
+                "href": "/developer/plugins/@uibyme-map/guide/layers",
+                "docId": "plugins/@uibyme-map/guide/layers",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Markers Guide",
+                "href": "/developer/plugins/@uibyme-map/guide/markers",
+                "docId": "plugins/@uibyme-map/guide/markers",
+                "unlisted": false
+              }
+            ],
+            "href": "/developer/plugins/@uibyme-map/guide/"
+          }
+        ],
+        "href": "/developer/plugins/@uibyme-map/"
+      }
+    ],
+    "guidesSidebar": [
+      {
+        "type": "link",
+        "label": "Welcome",
+        "href": "/developer/guides",
+        "docId": "guides/index",
+        "unlisted": false
+      },
+      {
+        "type": "category",
+        "label": "Getting Started",
+        "collapsible": true,
+        "collapsed": true,
+        "customProps": {
+          "description": "This description can be used in the swizzled DocCard"
+        },
+        "items": [
+          {
+            "type": "link",
+            "label": "Setting up your development environment",
+            "href": "/developer/guides/intro/dev-env",
+            "docId": "guides/intro/dev-env",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Geting Start md",
+            "href": "/developer/guides/intro/basics",
+            "docId": "guides/intro/basics",
+            "unlisted": false
+          }
+        ],
+        "href": "/developer/category/getting-started"
+      },
+      {
+        "type": "category",
+        "label": "Concepts",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Plugins",
+            "href": "/developer/guides/concepts/plugins",
+            "docId": "guides/concepts/plugins",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Services",
+            "href": "/developer/guides/concepts/services",
+            "docId": "guides/concepts/services",
+            "unlisted": false
+          }
+        ],
+        "href": "/developer/category/concepts"
+      },
+      {
+        "type": "category",
+        "label": "Tutorials",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "category",
+            "label": "Creating a plugin",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Generating a plugin",
+                "href": "/developer/guides/tutorials/plugin/generating",
+                "docId": "guides/tutorials/plugin/generating",
+                "unlisted": false
+              }
+            ],
+            "href": "/developer/category/creating-a-plugin"
+          },
+          {
+            "type": "link",
+            "label": "Plugin Documentation",
+            "href": "/developer/guides/tutorials/docs/",
+            "docId": "guides/tutorials/docs/docs",
+            "unlisted": false
+          }
+        ],
+        "href": "/developer/category/tutorials"
+      }
+    ],
+    "@artish/ui": [
+      {
+        "type": "link",
+        "label": "Readme",
+        "href": "/developer/@artish-ui/",
+        "docId": "@artish-ui/index",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Exports",
+        "href": "/developer/@artish-ui/modules",
+        "docId": "@artish-ui/modules",
+        "unlisted": false
+      },
+      {
+        "type": "category",
+        "label": "Concepts",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "tokens",
+            "href": "/developer/@artish-ui/concepts/tokens",
+            "docId": "@artish-ui/concepts/tokens",
+            "unlisted": false
+          }
+        ],
+        "href": "/developer/category/concepts-1"
+      },
+      {
+        "type": "category",
+        "label": "Interfaces",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "UiProps",
+            "href": "/developer/@artish-ui/interfaces/UiProps",
+            "docId": "@artish-ui/interfaces/UiProps",
+            "unlisted": false
+          }
+        ]
+      }
+    ]
+  },
+  "docs": {
+    "@artish-ui/concepts/tokens": {
+      "id": "@artish-ui/concepts/tokens",
+      "title": "tokens",
+      "description": "",
+      "sidebar": "@artish/ui"
+    },
+    "@artish-ui/index": {
+      "id": "@artish-ui/index",
+      "title": "@artish/ui",
+      "description": "This library was generated with Nx.",
+      "sidebar": "@artish/ui"
+    },
+    "@artish-ui/interfaces/UiProps": {
+      "id": "@artish-ui/interfaces/UiProps",
+      "title": "Interface: UiProps",
+      "description": "",
+      "sidebar": "@artish/ui"
+    },
+    "@artish-ui/modules": {
+      "id": "@artish-ui/modules",
+      "title": "@artish/ui",
+      "description": "Interfaces",
+      "sidebar": "@artish/ui"
+    },
+    "guides/concepts/plugins": {
+      "id": "guides/concepts/plugins",
+      "title": "Plugins",
+      "description": "",
+      "sidebar": "guidesSidebar"
+    },
+    "guides/concepts/services": {
+      "id": "guides/concepts/services",
+      "title": "Services",
+      "description": "",
+      "sidebar": "guidesSidebar"
+    },
+    "guides/index": {
+      "id": "guides/index",
+      "title": "Welcome",
+      "description": "This documentation is for core and plugin developers.",
+      "sidebar": "guidesSidebar"
+    },
+    "guides/intro/basics": {
+      "id": "guides/intro/basics",
+      "title": "Geting Start md",
+      "description": "",
+      "sidebar": "guidesSidebar"
+    },
+    "guides/intro/dev-env": {
+      "id": "guides/intro/dev-env",
+      "title": "Setting up your development environment",
+      "description": "",
+      "sidebar": "guidesSidebar"
+    },
+    "guides/tutorials/docs/docs": {
+      "id": "guides/tutorials/docs/docs",
+      "title": "Plugin Documentation",
+      "description": "We seperate all documentation into two main categories: developer and user. The developer docs are comprised of guides and references for developers who are contributing to the core or developing plugins. The user documentation is reference material to help end users understand how to use the features we are building.",
+      "sidebar": "guidesSidebar"
+    },
+    "guides/tutorials/plugin/generating": {
+      "id": "guides/tutorials/plugin/generating",
+      "title": "Generating a plugin",
+      "description": "",
+      "sidebar": "guidesSidebar"
+    },
+    "plugins/@uibyme-map/guide/index": {
+      "id": "plugins/@uibyme-map/guide/index",
+      "title": "Getting Started",
+      "description": "",
+      "sidebar": "pluginsSidebar"
+    },
+    "plugins/@uibyme-map/guide/layers": {
+      "id": "plugins/@uibyme-map/guide/layers",
+      "title": "Layers guide",
+      "description": "Introduction",
+      "sidebar": "pluginsSidebar"
+    },
+    "plugins/@uibyme-map/guide/markers": {
+      "id": "plugins/@uibyme-map/guide/markers",
+      "title": "Markers Guide",
+      "description": "Markers are used to mark a location on the map. They can be used to show the location of a business, event, or any other location that you want to highlight.",
+      "sidebar": "pluginsSidebar"
+    },
+    "plugins/@uibyme-map/index": {
+      "id": "plugins/@uibyme-map/index",
+      "title": "@uibyme/map",
+      "description": "This is the map plugin",
+      "sidebar": "pluginsSidebar"
+    },
+    "plugins/plugins": {
+      "id": "plugins/plugins",
+      "title": "Plugins",
+      "description": "Hello World! This is the plugin docs folder",
+      "sidebar": "pluginsSidebar"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "ui/guide/index",
+  "title": "guide index",
+  "description": "",
+  "source": "@site/docs/ui/guide/index.md",
+  "sourceDirName": "ui/guide",
+  "slug": "/ui/guide/",
+  "permalink": "/docs/ui/guide/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ui/guide/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

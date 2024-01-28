@@ -14,7 +14,11 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@artish/docs": ["packages/docs/src/index.ts"],
+      "@artish/ui": ["packages/ui/src/index.ts"],
+      "@artish/vanilla": ["packages/vanilla/src/index.ts"]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }

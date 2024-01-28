@@ -1,0 +1,45 @@
+{
+  "name": "vanilla",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "packages/vanilla/src",
+  "projectType": "library",
+  "tags": [],
+  "targets": {
+    "lint": {
+      "executor": "@nx/eslint:lint",
+      "outputs": ["{options.outputFile}"]
+    },
+    "build": {
+      "executor": "@nx/rollup:rollup",
+      "outputs": ["{options.outputPath}"],
+      "options": {
+        "outputPath": "dist/packages/vanilla",
+        "tsConfig": "packages/vanilla/tsconfig.lib.json",
+        "project": "packages/vanilla/package.json",
+        "entryFile": "packages/vanilla/src/index.ts",
+        "external": ["react", "react-dom", "react/jsx-runtime"],
+        "rollupConfig": "@nx/react/plugins/bundle-rollup",
+        "compiler": "babel",
+        "assets": [
+          {
+            "glob": "packages/vanilla/README.md ",
+            "input": ".",
+            "output": "."
+          }
+        ]
+      }
+    },
+    "docs": {
+      "executor": "@artish/docs:serve",
+      "options": {
+        "config": "packages/vanilla/plugin.config.ts"
+      }
+    },
+    "compile-docs": {
+      "executor": "@artish/docs:compile",
+      "options": {
+        "config": "packages/vanilla/flavor.config.ts"
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "guides/intro/basics",
+  "title": "Geting Start md",
+  "description": "",
+  "source": "@site/developer/guides/intro/basics.md",
+  "sourceDirName": "guides/intro",
+  "slug": "/guides/intro/basics",
+  "permalink": "/developer/guides/intro/basics",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "guidesSidebar",
+  "previous": {
+    "title": "Setting up your development environment",
+    "permalink": "/developer/guides/intro/dev-env"
+  },
+  "next": {
+    "title": "Concepts",
+    "permalink": "/developer/category/concepts"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "plugins/@uibyme-map/modules",
+  "title": "@uibyme/map",
+  "description": "",
+  "source": "@site/developer/plugins/@uibyme-map/modules.md",
+  "sourceDirName": "plugins/@uibyme-map",
+  "slug": "/plugins/@uibyme-map/modules",
+  "permalink": "/developer/plugins/@uibyme-map/modules",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0.5,
+  "frontMatter": {
+    "id": "modules",
+    "title": "@uibyme/map",
+    "sidebar_label": "Exports",
+    "sidebar_position": 0.5,
+    "custom_edit_url": null
+  },
+  "sidebar": "pluginsSidebar",
+  "previous": {
+    "title": "Readme",
+    "permalink": "/developer/plugins/@uibyme-map/"
+  },
+  "next": {
+    "title": "Getting Started",
+    "permalink": "/developer/plugins/@uibyme-map/guide/"
+  }
+}

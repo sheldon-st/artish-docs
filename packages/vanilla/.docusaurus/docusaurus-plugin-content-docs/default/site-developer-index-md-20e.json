@@ -1,0 +1,15 @@
+{
+  "id": "index",
+  "title": "index",
+  "description": "Hello World!",
+  "source": "@site/developer/index.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/docs/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/developer/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

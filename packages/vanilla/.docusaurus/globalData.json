@@ -1,0 +1,184 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "user": {
+      "path": "/user",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/user",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "basics/basics",
+              "path": "/user/basics/",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "index",
+              "path": "/user/",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "/category/basics",
+              "path": "/user/category/basics",
+              "sidebar": "defaultSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "defaultSidebar": {
+              "link": {
+                "path": "/user/category/basics",
+                "label": "Basics"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    },
+    "developer": {
+      "path": "/developer",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/developer",
+          "mainDocId": "plugins/plugins",
+          "docs": [
+            {
+              "id": "@artish-ui/concepts/tokens",
+              "path": "/developer/@artish-ui/concepts/tokens",
+              "sidebar": "@artish/ui"
+            },
+            {
+              "id": "@artish-ui/index",
+              "path": "/developer/@artish-ui/",
+              "sidebar": "@artish/ui"
+            },
+            {
+              "id": "@artish-ui/interfaces/UiProps",
+              "path": "/developer/@artish-ui/interfaces/UiProps",
+              "sidebar": "@artish/ui"
+            },
+            {
+              "id": "@artish-ui/modules",
+              "path": "/developer/@artish-ui/modules",
+              "sidebar": "@artish/ui"
+            },
+            {
+              "id": "guides/concepts/plugins",
+              "path": "/developer/guides/concepts/plugins",
+              "sidebar": "guidesSidebar"
+            },
+            {
+              "id": "guides/concepts/services",
+              "path": "/developer/guides/concepts/services",
+              "sidebar": "guidesSidebar"
+            },
+            {
+              "id": "guides/index",
+              "path": "/developer/guides",
+              "sidebar": "guidesSidebar"
+            },
+            {
+              "id": "guides/intro/basics",
+              "path": "/developer/guides/intro/basics",
+              "sidebar": "guidesSidebar"
+            },
+            {
+              "id": "guides/intro/dev-env",
+              "path": "/developer/guides/intro/dev-env",
+              "sidebar": "guidesSidebar"
+            },
+            {
+              "id": "guides/tutorials/docs/docs",
+              "path": "/developer/guides/tutorials/docs/",
+              "sidebar": "guidesSidebar"
+            },
+            {
+              "id": "guides/tutorials/plugin/generating",
+              "path": "/developer/guides/tutorials/plugin/generating",
+              "sidebar": "guidesSidebar"
+            },
+            {
+              "id": "plugins/@uibyme-map/guide/index",
+              "path": "/developer/plugins/@uibyme-map/guide/",
+              "sidebar": "pluginsSidebar"
+            },
+            {
+              "id": "plugins/@uibyme-map/guide/layers",
+              "path": "/developer/plugins/@uibyme-map/guide/layers",
+              "sidebar": "pluginsSidebar"
+            },
+            {
+              "id": "plugins/@uibyme-map/guide/markers",
+              "path": "/developer/plugins/@uibyme-map/guide/markers",
+              "sidebar": "pluginsSidebar"
+            },
+            {
+              "id": "plugins/@uibyme-map/index",
+              "path": "/developer/plugins/@uibyme-map/",
+              "sidebar": "pluginsSidebar"
+            },
+            {
+              "id": "plugins/plugins",
+              "path": "/developer/plugins",
+              "sidebar": "pluginsSidebar"
+            },
+            {
+              "id": "/category/getting-started",
+              "path": "/developer/category/getting-started",
+              "sidebar": "guidesSidebar"
+            },
+            {
+              "id": "/category/concepts",
+              "path": "/developer/category/concepts",
+              "sidebar": "guidesSidebar"
+            },
+            {
+              "id": "/category/tutorials",
+              "path": "/developer/category/tutorials",
+              "sidebar": "guidesSidebar"
+            },
+            {
+              "id": "/category/creating-a-plugin",
+              "path": "/developer/category/creating-a-plugin",
+              "sidebar": "guidesSidebar"
+            },
+            {
+              "id": "/category/concepts-1",
+              "path": "/developer/category/concepts-1",
+              "sidebar": "@artish/ui"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "pluginsSidebar": {
+              "link": {
+                "path": "/developer/plugins",
+                "label": "plugins/plugins"
+              }
+            },
+            "guidesSidebar": {
+              "link": {
+                "path": "/developer/guides",
+                "label": "guides/index"
+              }
+            },
+            "@artish/ui": {
+              "link": {
+                "path": "/developer/@artish-ui/",
+                "label": "Readme"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

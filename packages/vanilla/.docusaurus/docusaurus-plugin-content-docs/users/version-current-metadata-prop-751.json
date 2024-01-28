@@ -1,0 +1,42 @@
+{
+  "pluginId": "users",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "defaultSidebar": [
+      {
+        "type": "link",
+        "label": "Community",
+        "href": "/users/",
+        "docId": "users",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Hello",
+        "href": "/users/test/",
+        "docId": "test/index",
+        "unlisted": false
+      }
+    ]
+  },
+  "docs": {
+    "test/index": {
+      "id": "test/index",
+      "title": "Hello",
+      "description": "",
+      "sidebar": "defaultSidebar"
+    },
+    "users": {
+      "id": "users",
+      "title": "Community",
+      "description": "",
+      "sidebar": "defaultSidebar"
+    }
+  }
+}

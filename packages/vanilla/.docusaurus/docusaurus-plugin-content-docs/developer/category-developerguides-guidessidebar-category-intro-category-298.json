@@ -1,0 +1,15 @@
+{
+  "title": "intro category",
+  "slug": "/category/intro-category",
+  "permalink": "/developer/guides/category/intro-category",
+  "navigation": {
+    "previous": {
+      "title": "basics root home",
+      "permalink": "/developer/guides/guides/basics/"
+    },
+    "next": {
+      "title": "Geting Start md",
+      "permalink": "/developer/guides/guides/intro/basics"
+    }
+  }
+}

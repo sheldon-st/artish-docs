@@ -1,0 +1,28 @@
+{
+  "id": "guides/concepts/services",
+  "title": "Services",
+  "description": "",
+  "source": "@site/developer/guides/concepts/services.md",
+  "sourceDirName": "guides/concepts",
+  "slug": "/guides/concepts/services",
+  "permalink": "/developer/guides/concepts/services",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Services",
+    "id": "services",
+    "sidebar_position": 2
+  },
+  "sidebar": "guidesSidebar",
+  "previous": {
+    "title": "Plugins",
+    "permalink": "/developer/guides/concepts/plugins"
+  },
+  "next": {
+    "title": "Tutorials",
+    "permalink": "/developer/category/tutorials"
+  }
+}

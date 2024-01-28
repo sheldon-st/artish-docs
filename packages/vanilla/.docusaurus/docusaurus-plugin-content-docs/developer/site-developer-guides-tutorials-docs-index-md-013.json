@@ -1,0 +1,24 @@
+{
+  "id": "guides/tutorials/docs/docs",
+  "title": "Plugin Documentation",
+  "description": "We seperate all documentation into two main categories: developer and user. The developer docs are comprised of guides and references for developers who are contributing to the core or developing plugins. The user documentation is reference material to help end users understand how to use the features we are building.",
+  "source": "@site/developer/guides/tutorials/docs/index.md",
+  "sourceDirName": "guides/tutorials/docs",
+  "slug": "/guides/tutorials/docs/",
+  "permalink": "/developer/guides/tutorials/docs/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Plugin Documentation",
+    "id": "docs",
+    "sidebar_position": 2
+  },
+  "sidebar": "guidesSidebar",
+  "previous": {
+    "title": "Generating a plugin",
+    "permalink": "/developer/guides/tutorials/plugin/generating"
+  }
+}

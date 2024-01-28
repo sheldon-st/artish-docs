@@ -1,0 +1,23 @@
+{
+  "id": "plugins/@uibyme-map/guide/layers",
+  "title": "Layers guide",
+  "description": "Introduction",
+  "source": "@site/developer/plugins/@uibyme-map/guide/layers.md",
+  "sourceDirName": "plugins/@uibyme-map/guide",
+  "slug": "/plugins/@uibyme-map/guide/layers",
+  "permalink": "/developer/plugins/@uibyme-map/guide/layers",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "pluginsSidebar",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/developer/plugins/@uibyme-map/guide/"
+  },
+  "next": {
+    "title": "Markers Guide",
+    "permalink": "/developer/plugins/@uibyme-map/guide/markers"
+  }
+}

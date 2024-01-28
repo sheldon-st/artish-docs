@@ -1,0 +1,25 @@
+{
+  "id": "plugins/plugins",
+  "title": "Plugins",
+  "description": "Hello World! This is the plugin docs folder",
+  "source": "@site/developer/plugins/index.md",
+  "sourceDirName": "plugins",
+  "slug": "/plugins",
+  "permalink": "/developer/plugins",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Plugins",
+    "id": "plugins",
+    "slug": "/plugins",
+    "sidebar_position": 1
+  },
+  "sidebar": "pluginsSidebar",
+  "next": {
+    "title": "@uibyme/map",
+    "permalink": "/developer/plugins/@uibyme-map/"
+  }
+}

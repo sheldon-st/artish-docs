@@ -1,0 +1,27 @@
+{
+  "id": "@artish-ui/index",
+  "title": "@artish/ui",
+  "description": "This library was generated with Nx.",
+  "source": "@site/developer/@artish-ui/index.md",
+  "sourceDirName": "@artish-ui",
+  "slug": "/@artish-ui/",
+  "permalink": "/developer/@artish-ui/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "index",
+    "title": "@artish/ui",
+    "sidebar_label": "Readme",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "@artish/ui",
+  "next": {
+    "title": "Exports",
+    "permalink": "/developer/@artish-ui/modules"
+  }
+}

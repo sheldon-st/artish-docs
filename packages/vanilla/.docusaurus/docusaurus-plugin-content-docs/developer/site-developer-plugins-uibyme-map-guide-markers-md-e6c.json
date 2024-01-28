@@ -1,0 +1,19 @@
+{
+  "id": "plugins/@uibyme-map/guide/markers",
+  "title": "Markers Guide",
+  "description": "Markers are used to mark a location on the map. They can be used to show the location of a business, event, or any other location that you want to highlight.",
+  "source": "@site/developer/plugins/@uibyme-map/guide/markers.md",
+  "sourceDirName": "plugins/@uibyme-map/guide",
+  "slug": "/plugins/@uibyme-map/guide/markers",
+  "permalink": "/developer/plugins/@uibyme-map/guide/markers",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "pluginsSidebar",
+  "previous": {
+    "title": "Layers guide",
+    "permalink": "/developer/plugins/@uibyme-map/guide/layers"
+  }
+}

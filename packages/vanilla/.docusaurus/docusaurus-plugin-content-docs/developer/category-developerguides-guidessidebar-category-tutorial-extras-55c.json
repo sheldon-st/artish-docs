@@ -1,0 +1,15 @@
+{
+  "title": "Tutorial - Extras",
+  "slug": "/category/tutorial---extras",
+  "permalink": "/developer/guides/category/tutorial---extras",
+  "navigation": {
+    "previous": {
+      "title": "Welcome",
+      "permalink": "/developer/guides/"
+    },
+    "next": {
+      "title": "basics",
+      "permalink": "/developer/guides/guides/basics/"
+    }
+  }
+}
