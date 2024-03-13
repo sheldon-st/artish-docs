@@ -1,0 +1,370 @@
+{
+    "name": "Mission_Planning_Files",
+    "id": "root-1",
+    "lastModified": "2021-01-01",
+    "children": [
+        {
+            "name": "Region_1",
+            "id": "region-1-1",
+            "lastModified": "2021-01-01",
+            "children": [
+                {
+                    "name": "Subregion_1",
+                    "id": "subregion-1-1",
+                    "lastModified": "2021-01-01",
+                    "children": [
+                        {
+                            "name": "68W4BL5BUM",
+                            "id": "0SEW4VGYGB",
+                            "lastModified": "2021-01-01",
+                            "size": "393 KB",
+                            "coordinates": "66.4535\u00b0 N, 164.2687\u00b0 W",
+                            "owner": "94V6S0GMY0",
+                            "modifiedBy": "56CY3TA8A8",
+                            "type": "GPX"
+                        },
+                        {
+                            "name": "9QIYIBN0R4",
+                            "id": "ZQQVNVM1KD",
+                            "lastModified": "2021-01-01",
+                            "size": "321 KB",
+                            "coordinates": "-37.7621\u00b0 N, -133.8251\u00b0 W",
+                            "owner": "S8YRXB5OQY",
+                            "modifiedBy": "GYJEWRI0SB",
+                            "type": "KML"
+                        },
+                        {
+                            "name": "431JURXLNX",
+                            "id": "ZDO8NXI8LS",
+                            "lastModified": "2021-01-01",
+                            "size": "1460 KB",
+                            "coordinates": "-59.4792\u00b0 N, -157.4934\u00b0 W",
+                            "owner": "LR66IYC8VS",
+                            "modifiedBy": "09YK0TFBDX",
+                            "type": "GPX"
+                        },
+                        {
+                            "name": "XVTGF1A97N",
+                            "id": "ZQJZKCMKNN",
+                            "lastModified": "2021-01-01",
+                            "size": "2029 KB",
+                            "coordinates": "-67.0957\u00b0 N, -23.1348\u00b0 W",
+                            "owner": "U8HDG37HTE",
+                            "modifiedBy": "H79A9HW4M5",
+                            "type": "Shapefile"
+                        },
+                        {
+                            "name": "64X8OOJ7J4",
+                            "id": "R8QG2G1ST9",
+                            "lastModified": "2021-01-01",
+                            "size": "1666 KB",
+                            "coordinates": "54.4524\u00b0 N, -48.4691\u00b0 W",
+                            "owner": "T78F3I1ZY1",
+                            "modifiedBy": "2W54R4UCS5",
+                            "type": "KML"
+                        }
+                    ]
+                },
+                {
+                    "name": "Subregion_2",
+                    "id": "subregion-1-2",
+                    "lastModified": "2021-01-01",
+                    "children": [
+                        {
+                            "name": "0MBZBXY3IB",
+                            "id": "52QXISLFF0",
+                            "lastModified": "2021-01-01",
+                            "size": "1139 KB",
+                            "coordinates": "-7.2908\u00b0 N, -133.7858\u00b0 W",
+                            "owner": "5BJOHLIVZP",
+                            "modifiedBy": "IYL6C6QQ79",
+                            "type": "KML"
+                        },
+                        {
+                            "name": "Z7POD1LOZ8",
+                            "id": "34855IPVBB",
+                            "lastModified": "2021-01-01",
+                            "size": "475 KB",
+                            "coordinates": "-77.3884\u00b0 N, -28.0039\u00b0 W",
+                            "owner": "NUFZ0LD704",
+                            "modifiedBy": "XZNWO9IOWG",
+                            "type": "KMZ"
+                        },
+                        {
+                            "name": "RICABOXM18",
+                            "id": "ZTQSG3NLJR",
+                            "lastModified": "2021-01-01",
+                            "size": "873 KB",
+                            "coordinates": "-34.2673\u00b0 N, 19.1969\u00b0 W",
+                            "owner": "1WNNMJSUSM",
+                            "modifiedBy": "X9JNACUQW3",
+                            "type": "GPX"
+                        },
+                        {
+                            "name": "9J3O5D9JFP",
+                            "id": "8R5PGYHGNN",
+                            "lastModified": "2021-01-01",
+                            "size": "821 KB",
+                            "coordinates": "-62.3017\u00b0 N, 145.2449\u00b0 W",
+                            "owner": "A9JNPASVW3",
+                            "modifiedBy": "W0MYR08YU3",
+                            "type": "Shapefile"
+                        },
+                        {
+                            "name": "7BLYQ1TYW1",
+                            "id": "VPGI6GMXDW",
+                            "lastModified": "2021-01-01",
+                            "size": "832 KB",
+                            "coordinates": "0.3386\u00b0 N, 68.1357\u00b0 W",
+                            "owner": "F5W2VD4CZ7",
+                            "modifiedBy": "RR54MBZBXC",
+                            "type": "GPX"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Region_2",
+            "id": "region-2-1",
+            "lastModified": "2021-01-01",
+            "children": [
+                {
+                    "name": "Subregion_1",
+                    "id": "subregion-2-1",
+                    "lastModified": "2021-01-01",
+                    "children": [
+                        {
+                            "name": "UFIVOXQPOE",
+                            "id": "1S22ATISHX",
+                            "lastModified": "2021-01-01",
+                            "size": "1839 KB",
+                            "coordinates": "31.4253\u00b0 N, 174.3951\u00b0 W",
+                            "owner": "XPPLQM0GUK",
+                            "modifiedBy": "UVDP062P3Z",
+                            "type": "KMZ"
+                        },
+                        {
+                            "name": "O1IOUVHYRN",
+                            "id": "RAO50W0A2X",
+                            "lastModified": "2021-01-01",
+                            "size": "482 KB",
+                            "coordinates": "-43.9044\u00b0 N, -122.8211\u00b0 W",
+                            "owner": "QTXQY2ZN41",
+                            "modifiedBy": "4XPPO6LQK7",
+                            "type": "KMZ"
+                        },
+                        {
+                            "name": "VOUEN6P2XV",
+                            "id": "BUWZ5IA0HG",
+                            "lastModified": "2021-01-01",
+                            "size": "356 KB",
+                            "coordinates": "-0.3002\u00b0 N, 53.3992\u00b0 W",
+                            "owner": "JPO3YSGR79",
+                            "modifiedBy": "7L317D3U6S",
+                            "type": "GPX"
+                        },
+                        {
+                            "name": "1I1BWV7XJT",
+                            "id": "HIVVF5VWGU",
+                            "lastModified": "2021-01-01",
+                            "size": "990 KB",
+                            "coordinates": "-41.5345\u00b0 N, -60.8462\u00b0 W",
+                            "owner": "FNFJHSY7JU",
+                            "modifiedBy": "G12PH1HV5B",
+                            "type": "KML"
+                        },
+                        {
+                            "name": "2VA9O0644X",
+                            "id": "I15C958GXB",
+                            "lastModified": "2021-01-01",
+                            "size": "1864 KB",
+                            "coordinates": "50.6163\u00b0 N, -173.5993\u00b0 W",
+                            "owner": "P3JPRMKHLC",
+                            "modifiedBy": "3ZJE3AVZI5",
+                            "type": "KMZ"
+                        }
+                    ]
+                },
+                {
+                    "name": "Subregion_2",
+                    "id": "subregion-2-2",
+                    "lastModified": "2021-01-01",
+                    "children": [
+                        {
+                            "name": "E694PGF7JR",
+                            "id": "E2JNU4ZD4N",
+                            "lastModified": "2021-01-01",
+                            "size": "293 KB",
+                            "coordinates": "-77.0371\u00b0 N, -77.1733\u00b0 W",
+                            "owner": "F4F2KENDCZ",
+                            "modifiedBy": "VOQTCLJQ5H",
+                            "type": "GPX"
+                        },
+                        {
+                            "name": "U96USNYY5L",
+                            "id": "GGXXTU62CR",
+                            "lastModified": "2021-01-01",
+                            "size": "721 KB",
+                            "coordinates": "-39.2171\u00b0 N, -150.9098\u00b0 W",
+                            "owner": "VDENRV6JXW",
+                            "modifiedBy": "3LTKI2ADOC",
+                            "type": "KMZ"
+                        },
+                        {
+                            "name": "ZZ9F34L64O",
+                            "id": "UKNFVXKN8V",
+                            "lastModified": "2021-01-01",
+                            "size": "104 KB",
+                            "coordinates": "-54.2757\u00b0 N, 113.943\u00b0 W",
+                            "owner": "ETO9RYMYYF",
+                            "modifiedBy": "MUAVGKL7XL",
+                            "type": "KMZ"
+                        },
+                        {
+                            "name": "FILIMVP3PZ",
+                            "id": "0XFL7S1COB",
+                            "lastModified": "2021-01-01",
+                            "size": "1985 KB",
+                            "coordinates": "-39.1016\u00b0 N, -141.1511\u00b0 W",
+                            "owner": "J64FLI2ZAS",
+                            "modifiedBy": "R11L3EV3FF",
+                            "type": "KML"
+                        },
+                        {
+                            "name": "6G7LPRPS43",
+                            "id": "K0UICTYB4R",
+                            "lastModified": "2021-01-01",
+                            "size": "1561 KB",
+                            "coordinates": "70.0731\u00b0 N, -73.8944\u00b0 W",
+                            "owner": "JVBJN8UVSD",
+                            "modifiedBy": "LX6LKL4I62",
+                            "type": "GPX"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Region_3",
+            "id": "region-3-1",
+            "lastModified": "2021-01-01",
+            "children": [
+                {
+                    "name": "Subregion_1",
+                    "id": "subregion-3-1",
+                    "lastModified": "2021-01-01",
+                    "children": [
+                        {
+                            "name": "V7TABP5LNG",
+                            "id": "X0DLGYA3GO",
+                            "lastModified": "2021-01-01",
+                            "size": "1171 KB",
+                            "coordinates": "-60.4499\u00b0 N, 32.3346\u00b0 W",
+                            "owner": "QECXEZWQPP",
+                            "modifiedBy": "815HM925IF",
+                            "type": "KML"
+                        },
+                        {
+                            "name": "QW7OW5L0HB",
+                            "id": "KUANM6FDLD",
+                            "lastModified": "2021-01-01",
+                            "size": "1645 KB",
+                            "coordinates": "44.9465\u00b0 N, 78.9859\u00b0 W",
+                            "owner": "68XPYVCU2U",
+                            "modifiedBy": "KXCU8VQ85N",
+                            "type": "Shapefile"
+                        },
+                        {
+                            "name": "P5UVTNYMZQ",
+                            "id": "EXU71WZUL0",
+                            "lastModified": "2021-01-01",
+                            "size": "1466 KB",
+                            "coordinates": "17.7879\u00b0 N, 103.8152\u00b0 W",
+                            "owner": "Y84NKJORCA",
+                            "modifiedBy": "9JCVWVGL6O",
+                            "type": "KML"
+                        },
+                        {
+                            "name": "TWML0QE2WG",
+                            "id": "UB4GB8PWQK",
+                            "lastModified": "2021-01-01",
+                            "size": "643 KB",
+                            "coordinates": "41.8271\u00b0 N, -111.0784\u00b0 W",
+                            "owner": "SRKLLUVYBX",
+                            "modifiedBy": "X7HNOD5WE2",
+                            "type": "KML"
+                        },
+                        {
+                            "name": "5IB1PHGK8P",
+                            "id": "JB1HNBWOXE",
+                            "lastModified": "2021-01-01",
+                            "size": "715 KB",
+                            "coordinates": "-77.8621\u00b0 N, 66.0654\u00b0 W",
+                            "owner": "9YOTMO4302",
+                            "modifiedBy": "UEBMREEBTA",
+                            "type": "GPX"
+                        }
+                    ]
+                },
+                {
+                    "name": "Subregion_2",
+                    "id": "subregion-3-2",
+                    "lastModified": "2021-01-01",
+                    "children": [
+                        {
+                            "name": "JHE5BBSGQB",
+                            "id": "DUP7R3OU5E",
+                            "lastModified": "2021-01-01",
+                            "size": "1200 KB",
+                            "coordinates": "50.6059\u00b0 N, -53.9904\u00b0 W",
+                            "owner": "YIO2O32T2K",
+                            "modifiedBy": "MWR54C38OA",
+                            "type": "KMZ"
+                        },
+                        {
+                            "name": "CKXRKFDM09",
+                            "id": "YER0X4AVI9",
+                            "lastModified": "2021-01-01",
+                            "size": "1032 KB",
+                            "coordinates": "84.1199\u00b0 N, 45.4191\u00b0 W",
+                            "owner": "6ZK3W6UNHD",
+                            "modifiedBy": "TMT823EN3S",
+                            "type": "KML"
+                        },
+                        {
+                            "name": "MXSLO03QCV",
+                            "id": "TRVPOYXTGE",
+                            "lastModified": "2021-01-01",
+                            "size": "1140 KB",
+                            "coordinates": "-57.6125\u00b0 N, 149.2369\u00b0 W",
+                            "owner": "CGQ7QO8KAC",
+                            "modifiedBy": "XJOJTHRV9N",
+                            "type": "KML"
+                        },
+                        {
+                            "name": "3YWS4AN7OO",
+                            "id": "EL9JCO10V7",
+                            "lastModified": "2021-01-01",
+                            "size": "1188 KB",
+                            "coordinates": "54.7733\u00b0 N, 51.1404\u00b0 W",
+                            "owner": "AOG1K8M1P2",
+                            "modifiedBy": "93FVDT4YF9",
+                            "type": "Shapefile"
+                        },
+                        {
+                            "name": "U7M7PN11PE",
+                            "id": "HM8TPFFK8Q",
+                            "lastModified": "2021-01-01",
+                            "size": "781 KB",
+                            "coordinates": "86.3419\u00b0 N, -95.329\u00b0 W",
+                            "owner": "QREGXDMXNL",
+                            "modifiedBy": "EIXTUTZZ34",
+                            "type": "KML"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
